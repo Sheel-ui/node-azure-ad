@@ -1,0 +1,10 @@
+body {
+  background: rgb(255,255,255);
+  background: linear-gradient(84deg, rgba(255,255,255,1) 0%, rgba(234,206,237,1) 46%, rgba(183,244,243,1) 100%);
+}
+
+.center {
+   text-align: center;
+   height:90vh;
+   padding:35vh;
+}
